@@ -73,4 +73,3 @@ API Endpoints
     }
     
  *Error Response: 404 Not Found if the product ID does not exist
- 
